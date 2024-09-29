@@ -1,1 +1,0 @@
-gcc -o wndlock main.c
